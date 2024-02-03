@@ -51,7 +51,7 @@ required_packages = [
     "safetensors>=0.4.1",
     "sagemaker>=2.199.0",
     "tensorboard>=2.15.1",
-    "torch==2.0.1",
+    "torch==2.1.0",
     "torchvision>=0.15.2",
     "tqdm>=4.66.1",
     "transformers==4.36.2",
